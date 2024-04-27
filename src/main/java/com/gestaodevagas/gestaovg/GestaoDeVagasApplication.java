@@ -3,6 +3,9 @@ package com.gestaodevagas.gestaovg;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
+
 @SpringBootApplication
 public class GestaoDeVagasApplication {
 
